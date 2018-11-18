@@ -148,3 +148,6 @@ E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\D
 E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.application
 E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe
 E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.pdb
+F:\Daily Usage\Projects\C#\EALogistics\EA Logistics Control\bin\Debug\EA Logistics Control.exe.config
+F:\Daily Usage\Projects\C#\EALogistics\EA Logistics Control\obj\Debug\EA Logistics Control.exe
+F:\Daily Usage\Projects\C#\EALogistics\EA Logistics Control\obj\Debug\EA Logistics Control.pdb
