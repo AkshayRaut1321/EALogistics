@@ -1,0 +1,1930 @@
+Log starts	02-16-2015 20:36:58	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)Exception:System.Data.NoNullAllowedExceptionMessage:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 20:37:43	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])Exception:System.Data.SqlClient.SqlExceptionMessage:Incorrect syntax near '='.	Log ends
+
+Log starts	02-16-2015 21:52:53	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)Exception:System.Data.NoNullAllowedExceptionMessage:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 22:19:00	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])Exception:System.Data.SqlClient.SqlExceptionMessage:Incorrect syntax near '='.	Log ends
+
+Log starts	02-16-2015 22:46:33	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])Exception:System.Data.SqlClient.SqlExceptionMessage:Incorrect syntax near '='.	Log ends
+
+Log starts	02-16-2015 22:47:49	Project: EA Logistics Control	Target:Boolean IsTBEmpty(ControlCollection)	Exception:System.InvalidCastException	Message:Unable to cast object of type 'System.Windows.Forms.Button' to type 'System.Windows.Forms.TextBox'.	Log ends
+
+Log starts	02-16-2015 22:47:56	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 23:17:52	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 23:19:18	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 23:19:36	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 23:31:55	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 23:33:10	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 23:34:55	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 23:37:46	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 23:37:49	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 23:39:42	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 23:40:23	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-16-2015 23:41:53	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Data.NoNullAllowedException	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-17-2015 15:26:42	Project: EA Logistics Control	Target:Void ValidateConnectionForExecute(System.Data.SqlClient.SqlCommand)	Exception:System.InvalidOperationException	Message:There is already an open DataReader associated with this Command which must be closed first.	Log ends
+
+Log starts	02-17-2015 15:30:38	Project: EA Logistics Control	Target:Void CheckDataIsReady(Int32, Boolean, Boolean, System.String)	Exception:System.InvalidOperationException	Message:Invalid attempt to read when no data is present.	Log ends
+
+Log starts	02-17-2015 15:33:25	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:No party found.	Log ends
+
+Log starts	02-17-2015 15:35:13	Project: EA Logistics Control	Target:Void CheckDataIsReady(Int32, Boolean, Boolean, System.String)	Exception:System.InvalidOperationException	Message:Invalid attempt to read when no data is present.	Log ends
+
+Log starts	02-17-2015 15:38:47	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Unclosed quotation mark after the character string ', ')'.
+Incorrect syntax near ', ')'.	Log ends
+
+Log starts	02-17-2015 15:49:52	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:LR Number already exists.	Log ends
+
+Log starts	02-17-2015 16:02:37	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:LR Number already exists.	Log ends
+
+Log starts	02-17-2015 16:03:59	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:LR Number already exists.	Log ends
+
+Log starts	02-17-2015 16:41:19	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:LR Number already exists.	Log ends
+
+Log starts	02-17-2015 16:43:40	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:LR Number already exists.	Log ends
+
+Log starts	02-18-2015 00:43:18	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-18-2015 00:43:27	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-18-2015 00:47:09	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-18-2015 01:16:10	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-18-2015 01:16:14	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-18-2015 01:16:21	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-18-2015 01:16:39	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-18-2015 01:16:40	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-18-2015 19:44:56	Project: EA Logistics Control	Target:Void TB_TextChanged(System.Object, System.EventArgs)	Exception:System.NullReferenceException	Message:Object reference not set to an instance of an object.	Log ends
+
+Log starts	02-18-2015 20:11:06	Project: EA Logistics Control	Target:Void ValidateCommand(System.String, Boolean)	Exception:System.InvalidOperationException	Message:ExecuteReader requires an open and available Connection. The connection's current state is closed.	Log ends
+
+Log starts	02-18-2015 20:11:40	Project: EA Logistics Control	Target:Void ValidateCommand(System.String, Boolean)	Exception:System.InvalidOperationException	Message:ExecuteReader requires an open and available Connection. The connection's current state is closed.	Log ends
+
+Log starts	02-18-2015 21:42:04	Project: EA Logistics Control	Target:Void PB_LR_Load_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:No entry found for this LR Number.	Log ends
+
+Log starts	02-18-2015 21:44:48	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Incorrect syntax near '='.	Log ends
+
+Log starts	02-18-2015 21:51:42	Project: EA Logistics Control	Target:Void B_LR_Load_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:Enter the L. R. number in LR field to see its relevant data.	Log ends
+
+Log starts	02-18-2015 21:53:27	Project: EA Logistics Control	Target:Void B_LR_Load_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:Enter the L. R. number in LR field to see its relevant data.	Log ends
+
+Log starts	02-18-2015 21:53:28	Project: EA Logistics Control	Target:Void B_LR_Load_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:Enter the L. R. number in LR field to see its relevant data.	Log ends
+
+Log starts	02-22-2015 20:18:10	Project: EA Logistics Control	Target:Void B_LR_Load_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:Enter the L. R. number in LR field to see its relevant data.	Log ends
+
+Log starts	02-22-2015 20:18:25	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Invalid object name 'View_LR_Party'.	Log ends
+
+Log starts	02-22-2015 20:19:41	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Invalid object name 'View_LR_Party'.	Log ends
+
+Log starts	02-22-2015 21:08:26	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-22-2015 21:08:34	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-22-2015 21:22:46	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-22-2015 22:00:59	Project: EA Logistics Control	Target:Void set_Item(Int32, System.Object)	Exception:System.ArgumentOutOfRangeException	Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	Log ends
+
+Log starts	02-22-2015 22:01:06	Project: EA Logistics Control	Target:Void set_Item(Int32, System.Object)	Exception:System.ArgumentOutOfRangeException	Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	Log ends
+
+Log starts	02-22-2015 22:08:21	Project: EA Logistics Control	Target:Void ThrowArgumentOutOfRangeException()	Exception:System.ArgumentOutOfRangeException	Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	Log ends
+
+Log starts	02-22-2015 22:10:50	Project: EA Logistics Control	Target:Void ThrowArgumentOutOfRangeException()	Exception:System.ArgumentOutOfRangeException	Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	Log ends
+
+Log starts	02-22-2015 22:13:46	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-22-2015 22:14:36	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-22-2015 22:15:13	Project: EA Logistics Control	Target:Void cbExtra_SelectedIndexChanged(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:	Log ends
+
+Log starts	02-23-2015 22:46:58	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Invalid object name 'CatCharges'.	Log ends
+
+Log starts	02-23-2015 22:47:04	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-23-2015 22:47:58	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Invalid object name 'CatCharges'.	Log ends
+
+Log starts	02-23-2015 22:48:00	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-23-2015 22:48:17	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Invalid object name 'CatCharges'.	Log ends
+
+Log starts	02-23-2015 22:49:11	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-23-2015 22:49:26	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Invalid object name 'CatCharges'.	Log ends
+
+Log starts	02-23-2015 22:49:40	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-23-2015 22:52:27	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Invalid object name 'CatCharges'.	Log ends
+
+Log starts	02-23-2015 23:54:16	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Invalid object name 'CatCharges'.	Log ends
+
+Log starts	02-23-2015 23:55:49	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Invalid object name 'CatCharges'.	Log ends
+
+Log starts	02-24-2015 00:28:16	Project: EA Logistics Control	Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:Two or more controls cannot be set same value in custom mutual exclusion.	Log ends
+
+Log starts	02-24-2015 00:28:18	Project: EA Logistics Control	Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:Two or more controls cannot be set same value in custom mutual exclusion.	Log ends
+
+Log starts	02-24-2015 00:28:20	Project: EA Logistics Control	Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:Two or more controls cannot be set same value in custom mutual exclusion.	Log ends
+
+Log starts	02-24-2015 00:28:21	Project: EA Logistics Control	Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:Two or more controls cannot be set same value in custom mutual exclusion.	Log ends
+
+Log starts	02-24-2015 00:28:21	Project: EA Logistics Control	Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:Two or more controls cannot be set same value in custom mutual exclusion.	Log ends
+
+Log starts	02-24-2015 00:28:22	Project: EA Logistics Control	Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:Two or more controls cannot be set same value in custom mutual exclusion.	Log ends
+
+Log starts	02-24-2015 00:28:22	Project: EA Logistics Control	Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:Two or more controls cannot be set same value in custom mutual exclusion.	Log ends
+
+Log starts	02-24-2015 00:28:23	Project: EA Logistics Control	Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:Two or more controls cannot be set same value in custom mutual exclusion.	Log ends
+
+Log starts	02-24-2015 00:28:52	Project: EA Logistics Control	Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:Two or more controls cannot be set same value in custom mutual exclusion.	Log ends
+
+Log starts	02-24-2015 00:29:28	Project: EA Logistics Control	Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:Two or more controls cannot be set same value in custom mutual exclusion.	Log ends
+
+Log starts	02-24-2015 00:30:39	Project: EA Logistics Control	Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)	Exception:EA_Logistics_Control.ExMutualExclusion	Message:Two or more controls cannot be set same value in custom mutual exclusion.	Log ends
+
+Log starts	02-24-2015 08:59:37	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Invalid object name 'CatExtras'.	Log ends
+
+Log starts	02-25-2015 19:55:11	Project: EA Logistics Control	Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])	Exception:System.Data.SqlClient.SqlException	Message:Invalid object name 'View_LR_Party'.	Log ends
+
+Log starts	02-25-2015 20:48:12	Project: EA Logistics Control	Target:Void B_LR_Load_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:No entry found for this LR Number.	Log ends
+
+Log starts	02-25-2015 20:51:24	Project: EA Logistics Control	Target:Void B_LR_Load_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:Either this Consignment number has no entry in the database or it has been already billed.	Log ends
+
+Log starts	02-25-2015 20:51:50	Project: EA Logistics Control	Target:Void ValidateConnectionForExecute(System.Data.SqlClient.SqlCommand)	Exception:System.InvalidOperationException	Message:There is already an open DataReader associated with this Command which must be closed first.	Log ends
+
+Log starts	02-25-2015 20:54:15	Project: EA Logistics Control	Target:Void B_LR_Load_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:Either this Consignment number has no entry in the database or it has been already billed.	Log ends
+
+Log starts	02-25-2015 20:54:24	Project: EA Logistics Control	Target:Void B_LR_Load_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:Either this Consignment number has no entry in the database or it has been already billed.	Log ends
+
+Log starts	02-25-2015 21:07:14	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-25-2015 21:08:39	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-25-2015 21:13:07	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:User must fill in all empty text fields.	Log ends
+
+Log starts	02-25-2015 21:19:02	Project: EA Logistics Control	Target:Void B_LR_Save_Click(System.Object, System.EventArgs)	Exception:System.Exception	Message:User must fill in all empty text fields.	Log ends
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 1:33:40 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 1:39:46 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 1:40:15 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 1:41:35 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 2:02:59 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 2:07:42 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 2:17:22 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 2:19:29 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 2:21:08 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 2:21:29 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:00:18 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:01:18 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:02:53 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:15:28 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:16:08 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:18:14 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:25:38 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:31:54 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:32:11 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:34:23 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:50:49 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 3:51:19 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 4:00:49 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 4:04:23 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 4:04:59 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 4:06:01 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 4:07:07 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 4:07:48 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 4:08:03 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/7/2015 4:10:25 PM	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 19:22:35	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 19:23:10	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 19:44:40	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 19:45:18	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 19:46:09	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 22:48:52	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 22:50:10	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 22:50:27	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 22:50:42	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 22:50:57	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 22:51:34	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 22:53:26	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 22:53:55	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 22:54:18	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 22:54:50	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 23:13:47	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 23:14:43	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 23:17:26	-1	ExecuteScalar: Connection property has not been initialized.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	07-04-15 23:28:36	0	
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/8/2015 3:11:50 PM	-1	Invalid attempt to read when no data is present.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/8/2015 3:19:38 PM	-1	Invalid attempt to read when no data is present.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/8/2015 3:19:59 PM	-1	Invalid attempt to read when no data is present.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/9/2015 2:29:19 PM	-1	Invalid attempt to read when no data is present.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/9/2015 2:30:00 PM	-1	Invalid attempt to read when no data is present.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/9/2015 2:30:40 PM	-1	Invalid attempt to read when no data is present.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/9/2015 2:55:57 PM	-126	Invalid column name 'Name'.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/9/2015 3:01:01 PM	-126	Invalid column name 'Name'.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/9/2015 4:02:47 PM	-126	Invalid column name 'Name'.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/9/2015 4:05:16 PM	-126	Invalid column name 'Name'.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/9/2015 4:06:21 PM	-126	Invalid column name 'Name'.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/9/2015 4:08:33 PM	-1	Invalid attempt to read when no data is present.
+
+Log starts		Date and Time	ErrorID	MessageLog starts	4/11/2015 4:04:59 PM	-1	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 11:57:00	-125	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 12:39:19	-125	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 18:13:45	-125	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 18:14:24	0	Duplicate entry found.Log starts	19-04-15 19:41:57	-125	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 19:42:39	0	Duplicate entry found!
+
+Log starts	19-04-15 19:43:30	0	Duplicate entry found!
+
+Log starts	19-04-15 19:44:00	0	Duplicate entry found!
+
+Log starts	19-04-15 19:44:40	0	Duplicate entry found!
+
+Log starts	19-04-15 19:44:43	0	Duplicate entry found!
+
+Log starts	19-04-15 21:16:58	-125	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 21:17:36	-125	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 21:18:16	-125	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 21:25:28	-125	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 21:27:47	-125	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 21:28:04	-125	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 21:29:52	-125	Invalid attempt to read when no data is present.
+
+Log starts	19-04-15 21:30:47	0	Project: EA Logistics Control
+Target:Void B_Bills_ACN_Load_Click(System.Object, System.EventArgs)
+Exception:System.Exception
+Message:Enter the Consignment number in LR field to see its relevant data.
+
+Log starts	19-04-15 21:30:53	0	Project: EA Logistics Control
+Target:Void B_Bills_ACN_Load_Click(System.Object, System.EventArgs)
+Exception:System.Exception
+Message:Enter the Consignment number in LR field to see its relevant data.
+
+Log starts	19-04-15 21:30:55	0	Project: EA Logistics Control
+Target:Void B_Bills_ACN_Load_Click(System.Object, System.EventArgs)
+Exception:System.Exception
+Message:Enter the Consignment number in LR field to see its relevant data.
+
+Log starts	19-04-15 21:31:01	0	Project: EA Logistics Control
+Target:Void B_Bills_ACN_Load_Click(System.Object, System.EventArgs)
+Exception:System.Exception
+Message:Enter the Consignment number in LR field to see its relevant data.
+
+Log starts	19-04-15 21:38:00	-125	Invalid attempt to read when no data is present.
+
+Log starts	21-04-15 08:19:15	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 11:59:48 AM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 12:13:41 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 12:17:24 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 12:17:45 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 12:18:15 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 4:06:43 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 4:12:54 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 4:23:05 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 4:27:15 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 4:30:21 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 4:39:43 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 4:39:50 PM	0	Project: EA Logistics Control
+Target:Void B_IB_ACN_Load_Click(System.Object, System.EventArgs)
+Exception:System.Exception
+Message:Enter the Consignment number in LR field to see its relevant data.
+
+Log starts	4/21/2015 4:43:53 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 4:47:10 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 4:48:59 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 5:16:01 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 5:17:30 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 5:21:01 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 5:37:27 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/21/2015 5:40:39 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	23-04-15 09:05:48	-125	Invalid attempt to read when no data is present.
+
+Log starts	23-04-15 09:06:24	-125	Invalid attempt to read when no data is present.
+
+Log starts	23-04-15 10:04:39	-125	Invalid attempt to read when no data is present.
+
+Log starts	23-04-15 10:06:54	-125	Invalid attempt to read when no data is present.
+
+Log starts	23-04-15 10:08:12	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 11:39:46 AM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 11:49:17 AM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 11:49:36 AM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 11:52:28 AM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 11:53:10 AM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 11:54:57 AM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 11:55:08 AM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 11:55:26 AM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 11:56:56 AM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 11:59:09 AM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 12:00:29 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 12:00:55 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 12:01:31 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 12:01:44 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 12:04:01 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 12:12:23 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 1:48:53 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 1:57:38 PM	0	
+
+Log starts	4/23/2015 1:57:57 PM	0	
+
+Log starts	4/23/2015 2:35:26 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 2:40:28 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 2:43:02 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 2:43:28 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 2:43:43 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 2:53:13 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 2:58:57 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:00:30 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:02:45 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:03:27 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:35:59 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:39:08 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:39:54 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:40:42 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:41:06 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:43:24 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:43:59 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:50:53 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 3:51:05 PM	0	
+
+Log starts	4/23/2015 3:51:16 PM	0	
+
+Log starts	4/23/2015 3:51:25 PM	0	
+
+Log starts	4/23/2015 3:51:42 PM	0	
+
+Log starts	4/23/2015 3:51:45 PM	0	
+
+Log starts	4/23/2015 3:51:54 PM	0	
+
+Log starts	4/23/2015 3:52:00 PM	0	
+
+Log starts	4/23/2015 3:52:11 PM	0	
+
+Log starts	4/23/2015 3:53:37 PM	0	
+
+Log starts	4/23/2015 3:54:04 PM	0	Duplicate entry found!
+
+Log starts	4/23/2015 4:17:41 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 4:18:13 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 4:18:27 PM	-125	Invalid attempt to read when no data is present.
+
+Log starts	4/23/2015 4:25:00 PM	0	
+
+Log starts	29-04-15 13:48:12	0	
+
+Log starts	29-04-15 13:49:00	0	Duplicate entry found!
+
+Log starts	29-04-15 14:18:23	0	
+
+Log starts	29-04-15 14:52:47	0	
+
+Log starts	29-04-15 16:19:36	0	
+
+Log starts	29-04-15 16:19:48	0	
+
+Log starts	29-04-15 16:20:24	0	
+
+Log starts	29-04-15 17:32:37	-126	An attempt to attach an auto-named database for file \LocalDBs\LogisticsLocalDB.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+Log starts	01-05-15 13:08:40	-126	An attempt to attach an auto-named database for file \LocalDBs\LogisticsLocalDB.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+Log starts	10-06-15 18:04:04	-126	An attempt to attach an auto-named database for file E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+Log starts	10-06-15 18:04:59	-126	An attempt to attach an auto-named database for file E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+Log starts	10-06-15 18:05:09	-126	An attempt to attach an auto-named database for file E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+Log starts	10-06-15 18:05:09	-126	An attempt to attach an auto-named database for file E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+Log starts	10-06-15 18:05:09	-126	An attempt to attach an auto-named database for file E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+Log starts	28-06-15 18:33:11	-126	An attempt to attach an auto-named database for file E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+
+Log starts	28-06-15 18:35:13	-126	Invalid object name 'Cities'.
+
+Log starts	28-06-15 18:36:55	-126	Invalid object name 'Cities'.
+
+Log starts	28-06-15 18:45:08	-126	Invalid object name 'Cities'.
+
+Log starts	28-06-15 18:45:37	-126	Invalid object name 'Cities'.
+
+Log starts	29-06-15 18:02:00	-126	Invalid object name 'Cities'.
+
+Log starts	15-08-15 23:40:01	0	Project: EA Logistics Control
+Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)
+Exception:EA_Logistics_Control.ExMutualExclusion
+Message:Two or more controls cannot be set same value in custom mutual exclusion.
+
+Log starts	15-08-15 23:42:18	0	Project: EA Logistics Control
+Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)
+Exception:EA_Logistics_Control.ExMutualExclusion
+Message:Two or more controls cannot be set same value in custom mutual exclusion.
+
+Log starts	15-08-15 23:42:29	0	Project: EA Logistics Control
+Target:Void cbExtra_LostFocus(System.Object, System.EventArgs)
+Exception:EA_Logistics_Control.ExMutualExclusion
+Message:Two or more controls cannot be set same value in custom mutual exclusion.
+
+Log starts	16-08-15 20:04:37	0	
+
+Log starts	16-08-15 20:04:52	0	
+
+Log starts	16-08-15 20:05:06	0	
+
+Log starts	17-08-15 00:24:17	0	Project: EA Logistics Control
+Target:Void ThrowArgumentOutOfRangeException(System.ExceptionArgument, System.ExceptionResource)
+Exception:System.ArgumentOutOfRangeException
+Message:Index must be within the bounds of the List.
+Parameter name: index
+
+Log starts	17-08-15 09:39:50	0	
+
+Log starts	17-08-15 09:39:55	0	
+
+Log starts	17-08-15 09:50:47	0	
+
+Log starts	17-08-15 09:51:31	0	
+
+Log starts	17-08-15 09:52:13	0	
+
+Log starts	17-08-15 09:52:25	0	
+
+Log starts	17-08-15 10:26:51	0	
+
+Log starts	17-08-15 10:27:05	0	
+
+Log starts	17-08-15 10:27:21	0	
+
+Log starts	17-08-15 10:27:25	0	
+
+Log starts	17-08-15 10:27:43	0	
+
+Log starts	17-08-15 10:27:48	0	
+
+Log starts	17-08-15 10:27:53	-126	
+
+Log starts	17-08-15 10:27:58	-126	
+
+Log starts	17-08-15 10:28:15	-126	
+
+Log starts	17-08-15 10:28:23	-126	
+
+Log starts	17-08-15 10:31:21	0	
+
+Log starts	17-08-15 10:31:50	0	
+
+Log starts	17-08-15 10:32:16	0	
+
+Log starts	17-08-15 10:46:51	0	
+
+Log starts	18-08-15 22:57:17	0	Project: EA Logistics Control
+Target:Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+Exception:System.FormatException
+Message:Input string was not in a correct format.
+
+Log starts	18-08-15 23:51:17	0	Project: EA Logistics Control
+Target:Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+Exception:System.FormatException
+Message:Input string was not in a correct format.
+
+Log starts	23-08-15 21:52:50	0	Project: EA Logistics Control
+Target:Void ValidateCommand(System.String, Boolean)
+Exception:System.InvalidOperationException
+Message:ExecuteNonQuery: Connection property has not been initialized.
+
+Log starts	23-08-15 22:01:09	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:@travelFrom is not a parameter for procedure sp_ealog_consignments.
+
+Log starts	23-08-15 22:01:12	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:@travelFrom is not a parameter for procedure sp_ealog_consignments.
+
+Log starts	23-08-15 23:21:35	-126	Procedure or function 'sp_ealog_GetScalar' expects parameter '@retval', which was not supplied.
+
+Log starts	23-08-15 23:21:36	-126	Procedure or function 'sp_ealog_GetScalar' expects parameter '@retval', which was not supplied.
+
+Log starts	23-08-15 23:23:33	-1	Project: EA Logistics Control
+Target:System.Object getScalar(System.String, System.String, System.String, System.String)
+Exception:System.ArgumentException
+Message:Column 'CNo' does not belong to table .
+
+Log starts	23-08-15 23:23:33	-1	Project: EA Logistics Control
+Target:System.Object getScalar(System.String, System.String, System.String, System.String)
+Exception:System.ArgumentException
+Message:Column 'BillNo' does not belong to table .
+
+Log starts	23-08-15 23:25:34	-1	Project: EA Logistics Control
+Target:System.Object getScalar(System.String, System.String, System.String, System.String)
+Exception:System.ArgumentException
+Message:Column 'CNo' does not belong to table .
+
+Log starts	23-08-15 23:25:34	-1	Project: EA Logistics Control
+Target:System.Object getScalar(System.String, System.String, System.String, System.String)
+Exception:System.ArgumentException
+Message:Column 'BillNo' does not belong to table .
+
+Log starts	23-08-15 23:28:25	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	23-08-15 23:29:16	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:Error converting data type numeric to numeric.
+
+Log starts	23-08-15 23:29:19	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:Error converting data type numeric to numeric.
+
+Log starts	23-08-15 23:29:24	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:Error converting data type numeric to numeric.
+
+Log starts	23-08-15 23:46:31	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	23-08-15 23:47:31	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:Error converting data type numeric to numeric.
+
+Log starts	23-08-15 23:48:08	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	24-08-15 00:14:45	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	24-08-15 00:15:49	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	24-08-15 00:19:29	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	24-08-15 00:21:51	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	24-08-15 00:23:20	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	24-08-15 00:26:05	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	24-08-15 10:10:39	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	24-08-15 10:11:13	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 10:23:47	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 10:24:20	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 10:26:47	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 10:47:31	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 10:48:13	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 10:48:13	-126	Procedure or function 'sp_ealog_cities_select' expects parameter '@flag', which was not supplied.
+
+Log starts	25-08-15 10:48:44	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 10:49:28	-126	Procedure or function 'sp_ealog_cities_select' expects parameter '@flag', which was not supplied.
+
+Log starts	25-08-15 10:49:46	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 10:53:09	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 10:55:24	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 10:56:54	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 10:57:58	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 11:01:12	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 11:01:33	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 11:02:35	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 11:03:43	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 11:04:16	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 11:04:40	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 11:12:24	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 11:23:01	-1	Project: EA Logistics Control
+Target:Int16 Parse(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+Exception:System.OverflowException
+Message:Value was either too large or too small for an Int16.
+
+Log starts	25-08-15 11:23:05	-1	Project: EA Logistics Control
+Target:Int16 Parse(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+Exception:System.OverflowException
+Message:Value was either too large or too small for an Int16.
+
+Log starts	25-08-15 11:23:36	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 22:36:45	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 22:38:32	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	25-08-15 22:39:12	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 09:01:35	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 09:31:08	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 09:31:18	-1	Project: EA Logistics Control
+Target:Void B_IB_ACN_Load_Click(System.Object, System.EventArgs)
+Exception:System.Exception
+Message:Enter the Consignment number in LR field to see its relevant data.
+
+Log starts	26-08-15 09:39:24	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 09:40:52	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 09:42:47	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 09:42:59	-126	Procedure or function 'sp_ealog_parties_select' expects parameter '@flag', which was not supplied.
+
+Log starts	26-08-15 09:46:09	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 09:46:56	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 09:52:46	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:11:02	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:11:06	-126	Procedure or function 'sp_ealog_parties_select' expects parameter '@flag', which was not supplied.
+
+Log starts	26-08-15 10:12:29	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:13:25	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:37:25	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:38:51	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:40:22	-126	Procedure or function 'sp_ealog_consignments' expects parameter '@op', which was not supplied.
+
+Log starts	26-08-15 10:41:41	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:42:26	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:44:43	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:46:36	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:49:28	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:50:41	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:53:27	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:54:56	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:57:23	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	26-08-15 10:57:40	-126	Procedure or function 'sp_ealog_parties_select' expects parameter '@flag', which was not supplied.
+
+Log starts	27-08-15 22:09:42	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 22:10:42	-1	Project: EA Logistics Control
+Target:Void B_IB_ACN_Load_Click(System.Object, System.EventArgs)
+Exception:System.Exception
+Message:Enter the Consignment number in LR field to see its relevant data.
+
+Log starts	27-08-15 22:20:25	-126	Procedure or function 'sp_ealog_parties_select' expects parameter '@flag', which was not supplied.
+
+Log starts	27-08-15 22:27:24	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 22:27:30	-126	Procedure or function 'sp_ealog_parties_select' expects parameter '@flag', which was not supplied.
+
+Log starts	27-08-15 22:28:02	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 22:28:04	-126	Procedure or function 'sp_ealog_parties_select' expects parameter '@flag', which was not supplied.
+
+Log starts	27-08-15 22:36:06	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 22:36:39	-126	Procedure or function 'sp_ealog_parties_select' expects parameter '@flag', which was not supplied.
+
+Log starts	27-08-15 22:38:33	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 22:39:29	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:01:35	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:04:56	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:05:02	-126	Procedure or function sp_ealog_catcharges_select has too many arguments specified.
+
+Log starts	27-08-15 23:05:18	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:05:53	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:06:23	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:07:24	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:19:27	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:25:24	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:32:15	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:40:52	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:44:29	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:54:58	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-08-15 23:55:34	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	28-08-15 10:13:43	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	28-08-15 10:17:36	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	28-08-15 10:18:03	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	28-08-15 10:20:30	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	28-08-15 10:57:05	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	28-08-15 10:57:44	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	30-08-15 18:57:03	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	30-08-15 19:00:12	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	30-08-15 19:18:59	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	30-08-15 20:56:50	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	30-08-15 22:20:56	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	30-08-15 22:22:02	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	30-08-15 22:23:55	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	30-08-15 22:25:14	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	30-08-15 22:54:02	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	31-08-15 22:11:57	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	31-08-15 22:12:05	-1	Project: EA Logistics Control
+Target:Void B_IB_ACN_Load_Click(System.Object, System.EventArgs)
+Exception:System.Exception
+Message:Enter the Consignment number in LR field to see its relevant data.
+
+Log starts	31-08-15 22:12:09	-1	Project: EA Logistics Control
+Target:Void B_IB_ACN_Load_Click(System.Object, System.EventArgs)
+Exception:System.Exception
+Message:Enter the Consignment number in LR field to see its relevant data.
+
+Log starts	01-09-15 22:12:10	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:17:32	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:18:16	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:18:55	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:22:03	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:23:14	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:24:45	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:25:10	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:25:27	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:30:34	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:34:33	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:37:56	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:43:43	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:44:44	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:46:05	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:47:14	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:49:39	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:50:44	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:51:24	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 22:52:05	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:02:20	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:15:16	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:15:48	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:16:40	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:27:02	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:47:42	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:48:32	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:51:04	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:52:23	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:54:05	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:54:47	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:56:46	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	01-09-15 23:59:04	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	02-09-15 00:00:28	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 19:10:36	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 19:29:36	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 20:22:14	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	06-09-15 20:22:14	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	06-09-15 20:22:14	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	06-09-15 20:22:14	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	06-09-15 20:22:15	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	06-09-15 20:22:56	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	06-09-15 20:22:56	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	06-09-15 20:22:56	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	06-09-15 20:22:56	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	06-09-15 20:22:56	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	06-09-15 20:23:28	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 20:29:12	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 20:33:12	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 21:00:01	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 21:01:54	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 21:02:21	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 21:04:14	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 21:22:41	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 21:25:42	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	06-09-15 21:27:47	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 11:58:04	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 12:37:22	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 12:39:26	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 12:39:56	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 12:41:46	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 12:44:36	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 13:08:14	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 13:29:46	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 13:30:26	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 13:31:02	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 13:32:47	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 13:37:02	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 13:39:38	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 13:55:00	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 15:57:47	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 15:59:20	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 15:59:50	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 16:00:40	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 16:02:30	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 16:05:20	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 16:08:51	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 16:10:04	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 16:20:15	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 16:24:44	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 16:26:59	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	13-09-15 16:29:56	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	14-09-15 21:44:59	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	14-09-15 22:03:37	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	14-09-15 22:04:06	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	14-09-15 22:50:40	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	14-09-15 22:53:54	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	14-09-15 22:55:16	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	15-09-15 10:37:15	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	16-09-15 09:01:30	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	16-09-15 09:39:01	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	16-09-15 09:42:55	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	16-09-15 09:44:25	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 21:10:20	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 22:09:36	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 22:16:38	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 22:17:26	-126	Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=15990; handshake=0; 
+
+Log starts	17-09-15 22:17:26	-126	Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=15990; handshake=0; 
+
+Log starts	17-09-15 22:17:26	-126	Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=15990; handshake=0; 
+
+Log starts	17-09-15 22:17:26	-126	Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=15990; handshake=0; 
+
+Log starts	17-09-15 22:17:26	-126	Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=15990; handshake=0; 
+
+Log starts	17-09-15 22:20:15	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 22:21:41	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:00:55	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:01:34	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:03:48	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:08:24	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:09:56	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:12:02	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:16:45	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:17:26	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:18:05	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:19:29	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:20:41	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:21:32	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:22:27	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:30:47	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:32:13	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:33:56	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:34:23	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	17-09-15 23:35:12	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	19-09-15 19:22:14	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	19-09-15 19:22:14	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	19-09-15 19:22:14	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	19-09-15 19:22:14	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	19-09-15 19:22:15	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	19-09-15 19:24:28	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	19-09-15 19:24:28	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	19-09-15 19:24:28	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	19-09-15 19:24:29	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	19-09-15 19:24:30	-126	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Error occurred during LocalDB instance startup: SQL Server process failed to start.
+)
+
+Log starts	19-09-15 19:34:36	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	19-09-15 19:35:15	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	19-09-15 19:42:51	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	19-09-15 19:44:51	-1	Project: EA Logistics Control
+Target:Int32 System.IConvertible.ToInt32(System.IFormatProvider)
+Exception:System.InvalidCastException
+Message:Object cannot be cast from DBNull to other types.
+
+Log starts	27-10-15 19:49:32	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:The INSERT statement conflicted with the FOREIGN KEY constraint "fk_CSM_SignorID". The conflict occurred in database "E:\PROJECTS\.NET FX 4.5\WINFORMS\EA LOGISTICS CONTROL\EA LOGISTICS CONTROL\BIN\DEBUG\LOCALDBS\EALOGLOCALDB.MDF", table "dbo.Parties", column 'PartyID'.
+The statement has been terminated.
+
+Log starts	27-10-15 19:49:42	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:The INSERT statement conflicted with the FOREIGN KEY constraint "fk_CSM_SignorID". The conflict occurred in database "E:\PROJECTS\.NET FX 4.5\WINFORMS\EA LOGISTICS CONTROL\EA LOGISTICS CONTROL\BIN\DEBUG\LOCALDBS\EALOGLOCALDB.MDF", table "dbo.Parties", column 'PartyID'.
+The statement has been terminated.
+
+Log starts	27-10-15 19:51:22	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:Violation of PRIMARY KEY constraint 'pk_CSM_CNo'. Cannot insert duplicate key in object 'dbo.Consignments'. The duplicate key value is (10).
+The statement has been terminated.
+
+Log starts	27-10-15 20:06:21	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:Violation of PRIMARY KEY constraint 'pk_CSM_CNo'. Cannot insert duplicate key in object 'dbo.Consignments'. The duplicate key value is (10).
+The statement has been terminated.
+
+Log starts	27-10-15 20:55:06	0	Project: EA Logistics Control
+Target:Void Save()
+Exception:System.NullReferenceException
+Message:Object reference not set to an instance of an object.
+
+Log starts	27-10-15 20:55:10	0	Project: EA Logistics Control
+Target:Void Save()
+Exception:System.NullReferenceException
+Message:Object reference not set to an instance of an object.
+
+Log starts	08-11-15 22:47:25	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:The INSERT statement conflicted with the FOREIGN KEY constraint "fk_CSM_SignorID". The conflict occurred in database "E:\PROJECTS\.NET FX 4.5\WINFORMS\EA LOGISTICS CONTROL\EA LOGISTICS CONTROL\BIN\DEBUG\LOCALDBS\EALOGLOCALDB.MDF", table "dbo.Parties", column 'PartyID'.
+The statement has been terminated.
+
+Log starts	08-11-15 23:26:28	1	Invalid column name 'CNo'.
+
+Log starts	08-11-15 23:27:38	-126	Project: EA Logistics Control
+Target:Boolean checkDuplicate(System.String, System.String, System.String)
+Exception:System.Data.SqlClient.SqlException
+Message:Invalid column name 'CNo'.
+
+Log starts	08-11-15 23:42:39	1	Invalid column name 'CNo'.
+
+Log starts	08-11-15 23:42:57	-126	Project: EA Logistics Control
+Target:Boolean checkDuplicate(System.String, System.String, System.String)
+Exception:System.Data.SqlClient.SqlException
+Message:Invalid column name 'CNo'.
+
+Log starts	08-11-15 23:43:07	-126	Project: EA Logistics Control
+Target:Boolean checkDuplicate(System.String, System.String, System.String)
+Exception:System.Data.SqlClient.SqlException
+Message:Invalid column name 'CNo'.
+
+Log starts	08-11-15 23:44:01	1	Invalid column name 'CNo'.
+
+Log starts	08-11-15 23:45:33	1	Invalid column name 'CNo'.
+
+Log starts	08-11-15 23:46:22	1	Invalid column name 'CNo'.
+
+Log starts	09-11-15 00:03:36	1	Invalid column name 'CNo'.
+
+Log starts	11-11-15 17:22:43	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:Error converting data type numeric to numeric.
+
+Log starts	11-11-15 17:22:47	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:Error converting data type numeric to numeric.
+
+Log starts	11-11-15 17:25:47	-126	Project: EA Logistics Control
+Target:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+Exception:System.Data.SqlClient.SqlException
+Message:Error converting data type numeric to numeric.
+
+Log starts	11-11-15 22:03:00	0	Project: EA Logistics Control
+Target:Int32 ParseInt32(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+Exception:System.OverflowException
+Message:Value was either too large or too small for an Int32.
+
+Log starts	11-11-15 22:04:26	0	Project: EA Logistics Control
+Target:Int32 ParseInt32(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+Exception:System.OverflowException
+Message:Value was either too large or too small for an Int32.
+
+Log starts	11-11-15 22:04:32	0	Project: EA Logistics Control
+Target:Int32 ParseInt32(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+Exception:System.OverflowException
+Message:Value was either too large or too small for an Int32.
+
+Log starts	11-11-15 22:04:41	0	Project: EA Logistics Control
+Target:Int32 ParseInt32(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+Exception:System.OverflowException
+Message:Value was either too large or too small for an Int32.
+
+Log starts	12-11-15 18:38:59	0	Project: EA Logistics Control
+Target:Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+Exception:System.FormatException
+Message:Input string was not in a correct format.
+
+Log starts	12-11-15 18:39:09	0	Project: EA Logistics Control
+Target:Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+Exception:System.FormatException
+Message:Input string was not in a correct format.
+

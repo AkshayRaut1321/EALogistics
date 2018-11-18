@@ -1,0 +1,150 @@
+E:\Projects\.NET Fx 3.5\WinForms\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 3.5\WinForms\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.pdb
+E:\Projects\.NET Fx 3.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csprojResolveAssemblyReference.cache
+E:\Projects\.NET Fx 3.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.Properties.Resources.resources
+E:\Projects\.NET Fx 3.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csproj.GenerateResource.Cache
+E:\Projects\.NET Fx 3.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 3.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.pdb
+E:\Projects\.NET Fx 3.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FRecord.resources
+E:\Projects\.NET Fx 3.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FLogin.resources
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\bin\Debug\AppData\TestLocalDB.mdf
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\bin\Debug\AppData\TestLocalDB_log.ldf
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.config
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.pdb
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FRecord.resources
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FLogin.resources
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.Properties.Resources.resources
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csproj.GenerateResource.Cache
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.pdb
+D:\ak\Programs (H)\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csprojResolveAssemblyReference.cache
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.config
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.pdb
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB.mdf
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB_log.ldf
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\bin\Debug\testdb\testdb.mdf
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\bin\Debug\testdb\testdb_log.ldf
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.pdb
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csprojResolveAssemblyReference.cache
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FRecord.resources
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FLogin.resources
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.Properties.Resources.resources
+D:\ak\Programs\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csproj.GenerateResource.Cache
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.config
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.pdb
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csprojResolveAssemblyReference.cache
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FRecord.resources
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FLogin.resources
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.Properties.Resources.resources
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csproj.GenerateResource.Cache
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB.mdf
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB_log.ldf
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\bin\Debug\testdb\testdb.mdf
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\bin\Debug\testdb\testdb_log.ldf
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.manifest
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.application
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.pdb
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe.manifest
+E:\Projects\.NET Fx 3.5 (H)\WinForms\upgraded\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.application
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB.mdf
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB_log.ldf
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.config
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.manifest
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.application
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.pdb
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csprojResolveAssemblyReference.cache
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FAddCN.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FContacts.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FRecords.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FLogin.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.Properties.Resources.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FAboutEA.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csproj.GenerateResource.Cache
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.TrustInfo.xml
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe.manifest
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.application
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 4.5\WinForms\new mod\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.pdb
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.config
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csprojResolveAssemblyReference.cache
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FAddCN.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FContacts.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FOptions.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FRecords.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FLogin.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.Properties.Resources.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FAboutEA.resources
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csproj.GenerateResource.Cache
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB.mdf
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB_log.ldf
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.manifest
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.application
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.pdb
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.TrustInfo.xml
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe.manifest
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.application
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 4.5\WinForms\new mod MDI like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.pdb
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\upgrade\EA Logs control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.config
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.config
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB.mdf
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\LogisticsLocalDB_log.ldf
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.manifest
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.application
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.pdb
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csprojResolveAssemblyReference.cache
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FAddCN.resources
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FContacts.resources
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FOptions.resources
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FRecords.resources
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FLogin.resources
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.Properties.Resources.resources
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FAboutEA.resources
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csproj.GenerateResource.Cache
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.TrustInfo.xml
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe.manifest
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.application
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 4.5\WinForms\upgrade - MOD like\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.pdb
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.config
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\obj\Debug\EA Logistics Control.csprojResolveAssemblyReference.cache
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FAddCN.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FContacts.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FOptions.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FRecords.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FLogin.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\obj\Debug\EA_Logistics_Control.Properties.Resources.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FAboutEA.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control - upgrade - MOD like\EA Logistics control\EA Logistics Control\obj\Debug\EA Logistics Control.csproj.GenerateResource.Cache
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\EALogLocalDB.mdf
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\bin\Debug\LocalDBs\EALogLocalDB_log.ldf
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.config
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe.manifest
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.application
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\bin\Debug\EA Logistics Control.pdb
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FormAddUser.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FormAttachConsignment.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FormContacts.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FormNewConsignment.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FormNewBill.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FormLogin.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FormViewBills.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FormViewConsignments.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.MdiDashboard.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.Properties.Resources.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA_Logistics_Control.FormAboutEA.resources
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.csproj.GenerateResource.Cache
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.TrustInfo.xml
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe.manifest
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.application
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.exe
+E:\Projects\.NET Fx 4.5\WinForms\EA Logistics Control\EA Logistics Control\obj\Debug\EA Logistics Control.pdb

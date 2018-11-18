@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FCFFE3D2-98BC-4A07-BC92-38148D6293A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EA_Logistics_Control</RootNamespace>
+    <AssemblyName>EA Logistics Control</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>E:\Projects\Deployed\EA Logistics\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+    <BootstrapperComponentsUrl>E:\Projects\Prerequisites</BootstrapperComponentsUrl>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>FF98640EDF92449B166B2969AE5F0992DE1AE150</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>EA Logistics Control_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Word\14.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddUser.Designer.cs">
+      <DependentUpon>FormAddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAttachConsignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAttachConsignment.Designer.cs">
+      <DependentUpon>FormAttachConsignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNewConsignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewConsignment.Designer.cs">
+      <DependentUpon>FormNewConsignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewBills.Designer.cs">
+      <DependentUpon>FormViewBills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewConsignments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewConsignments.Designer.cs">
+      <DependentUpon>FormViewConsignments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MdiDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MdiDashboard.Designer.cs">
+      <DependentUpon>MdiDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Tables\CUserInfo.cs" />
+    <Compile Include="Classes\Extras\CRunTimeUI.cs" />
+    <Compile Include="FormContacts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormContacts.Designer.cs">
+      <DependentUpon>FormContacts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Extras\CFingerPrint.cs" />
+    <Compile Include="FormNewBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewBill.Designer.cs">
+      <DependentUpon>FormNewBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Extras\CExFuncy.cs" />
+    <Compile Include="Classes\Extras\MutualExclusionException.cs" />
+    <Compile Include="Classes\Extras\CLogger.cs" />
+    <Compile Include="Classes\Extras\NotificationPriority.cs" />
+    <Compile Include="Classes\Tables\CCities.cs" />
+    <Compile Include="Classes\Tables\CConsignments.cs" />
+    <Compile Include="Classes\Tables\CCatCharges.cs" />
+    <Compile Include="Classes\Tables\CParties.cs" />
+    <Compile Include="Classes\Extras\CDBAccess.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FormAboutEA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAboutEA.Designer.cs">
+      <DependentUpon>FormAboutEA.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormAddUser.resx">
+      <DependentUpon>FormAddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAttachConsignment.resx">
+      <DependentUpon>FormAttachConsignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormContacts.resx">
+      <DependentUpon>FormContacts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewConsignment.resx">
+      <DependentUpon>FormNewConsignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewBill.resx">
+      <DependentUpon>FormNewBill.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormViewBills.resx">
+      <DependentUpon>FormViewBills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormViewConsignments.resx">
+      <DependentUpon>FormViewConsignments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MdiDashboard.resx">
+      <DependentUpon>MdiDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="FormAboutEA.resx">
+      <DependentUpon>FormAboutEA.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.4.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 4.0 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LocalDBs\EALogLocalDB.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="LocalDBs\EALogLocalDB_log.ldf">
+      <DependentUpon>EALogLocalDB.mdf</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="pictures\ico_remove.ico" />
+    <Content Include="Logs\error_log.txt" />
+    <Content Include="pictures\pic_refresh - Copy.png" />
+    <None Include="Resources\Icon_Remove.bmp" />
+    <None Include="Resources\ico_remove_32x32.ico" />
+    <Content Include="SQLQueries\LogisticsStructure\DDL - AppliedCharges.sql" />
+    <Content Include="SQLQueries\LogisticsStructure\DDL - Bills.sql" />
+    <Content Include="SQLQueries\LogisticsStructure\DDL - CatCharges.sql" />
+    <Content Include="SQLQueries\LogisticsStructure\DDL - Consignment.sql" />
+    <Content Include="SQLQueries\LogisticsStructure\DDL - ConsignmentMultiPointCharges.sql" />
+    <Content Include="SQLQueries\LogisticsStructure\DDL - ConsignmentMultiPoints.sql" />
+    <Content Include="SQLQueries\LogisticsStructure\DDL - Parties.sql" />
+    <Content Include="SQLQueries\LogisticsStructure\DDL - Users.sql" />
+    <Content Include="SQLQueries\SP\SP - View CSM and Party.sql" />
+    <Content Include="SQLQueries\SP\SP - GetKeyValue.sql" />
+    <Content Include="SQLQueries\SP\SP - GetScalar.sql" />
+    <Content Include="SQLQueries\SP\SP - Cities.sql" />
+    <Content Include="SQLQueries\SP\SP - CheckDuplicate.sql" />
+    <Content Include="SQLQueries\SP\SP - BillsAndCSMs.sql" />
+    <Content Include="SQLQueries\SP\SP - Consignments.sql" />
+    <Content Include="SQLQueries\Location\Countries - Earth - DDL &amp; DML.sql" />
+    <Content Include="SQLQueries\SP\SP - Parties.sql" />
+    <Content Include="SQLQueries\LogisticsStructure\DDL - Logistics Local DB.sql" />
+    <Content Include="SQLQueries\LogisticsStructure\DML - Logistics Local DB.sql" />
+    <Content Include="SQLQueries\Backups\DDL and DML - Logistics Local DB - Extras.sql" />
+    <Content Include="SQLQueries\Location\Cities\Cities - Assam - DDL &amp; DML.sql" />
+    <Content Include="SQLQueries\Location\Cities\Cities - Bihar - DDL &amp; DML.sql" />
+    <Content Include="SQLQueries\Location\Cities\Cities - Delhi &amp; Goa - DDL &amp; DML.sql" />
+    <Content Include="SQLQueries\Location\Cities\Cities - Gujarat - DDL &amp; DML.sql" />
+    <Content Include="SQLQueries\Location\Cities\Cities - Maharashtra - DDL &amp; DML.sql" />
+    <Content Include="SQLQueries\Location\Cities\Cities - Rajasthan - DDL &amp; DML.sql" />
+    <Content Include="SQLQueries\Location\Cities\Cities - Uttar Pradesh - DDL &amp; DML.sql" />
+    <Content Include="SQLQueries\Location\States - India - DML.sql" />
+    <Content Include="SQLQueries\LogisticsStructure\View - Party names with LR.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
