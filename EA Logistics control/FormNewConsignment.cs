@@ -4,6 +4,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
 using System.Windows.Forms;
+using EA_Logistics_Control.Classes.Extras;
 using EA_Logistics_Control.Models;
 using ExtraFunctions;
 
@@ -41,7 +42,7 @@ namespace EA_Logistics_Control
             {
                 System.Windows.Forms.Control.ControlCollection CCLR = P_IC.Controls;
 
-                if (!CRunTimeUI.showErrorOnFields(diContConsignmentsMand))
+                if (!_uiManager.showErrorOnFields(diContConsignmentsMand))
                 {
                     //throw new Exception("User must fill in all empty text fields.");
 
@@ -79,8 +80,9 @@ namespace EA_Logistics_Control
                     if (resRows > 0)
                     {
                         (this.MdiParent as MdiDashboard).SetNotification("New consignment has been saved.", NotificationPriority.Success);
-                        CRunTimeUI.clearFields(P_IC.Controls, diContConsignmentsMand, true);
+                        _uiManager.clearFields(P_IC.Controls, diContConsignmentsMand, true);
                         TB_IC_No.Text = DBAccess.GetMaxNext("ConsignmentNo", "Consignments", "max").ToString();
+                        MessageBox.Show("New consignment has been saved.");
                     }
                 }
             }
@@ -105,9 +107,11 @@ namespace EA_Logistics_Control
         }
         #endregion
 
+        private CRunTimeUI _uiManager;
         #region event handling
         public FormNewConsignment()
         {
+            _uiManager = new CRunTimeUI();
             InitializeComponent();
         }
 
@@ -129,7 +133,7 @@ namespace EA_Logistics_Control
 
             //cbConsignor.DropDownStyle = ComboBoxStyle.DropDown;
 
-            CRunTimeUI.setBackColor(P_IC.Controls, Color.Transparent);
+            _uiManager.setBackColor(P_IC.Controls, Color.Transparent);
             #endregion
 
             #region Setting up data
@@ -173,27 +177,10 @@ namespace EA_Logistics_Control
             diContConsignmentsMand.Add(cbTo, EP_IC_To);
             diContConsignmentsMand.Add(TB_IC_Weight, EP_IC_Weight);
             #endregion
-
-            #region Load MDI parent's controls for notifications
-            //controlsArrayMDI = this.MdiParent.Controls.Find("statusStrip", true);
-            //if (controlsArrayMDI.Length == 1)
-            //{
-            //    statusStripMDI = controlsArrayMDI[0] as StatusStrip;
-            //    backColorStatusStripMDI = statusStripMDI.BackColor;
-            //    toolStripItemsArr = statusStripMDI.Items.Find("toolStripStatusLabel", false);
-            //    if (toolStripItemsArr.Length == 1)
-            //    {
-            //        toolStripStatusMDI = toolStripItemsArr[0];
-            //    }
-            //}
-            #endregion
+           
             TB_IC_No.Focus();
-        }
 
-        private void B_IC_Clear_Click(object sender, EventArgs e)
-        {
-            CRunTimeUI.clearFields(P_IC.Controls, diContConsignmentsMand, true);
-            TB_IC_No.Focus();
+            TB_IC_Amount.Enabled = false;
         }
 
         private void TB_KeyPress(object sender, KeyPressEventArgs e)
@@ -201,7 +188,7 @@ namespace EA_Logistics_Control
             TextBox control = (TextBox)sender;
             if (diContConsignmentsNum.ContainsKey(control))
             {
-                CRunTimeUI.restrictKeys(diContConsignmentsNum, control, e);
+                _uiManager.restrictKeys(diContConsignmentsNum, control, e);
             }
         }
 
@@ -223,7 +210,7 @@ namespace EA_Logistics_Control
              *  So after realizing the error, I changed the datatype in that method to Control.ControlCollection and then pass the controls of panel. */
             try
             {
-                hasData = CRunTimeUI.getBoolOnEmptyFields(onEmpty: false, nested: true, cc: P_IC.Controls);
+                hasData = _uiManager.getBoolOnEmptyFields(onEmpty: false, nested: true, cc: P_IC.Controls);
 
                 if (hasData)
                 {
@@ -267,5 +254,56 @@ namespace EA_Logistics_Control
             }
         }
         #endregion
+
+        private void TB_IC_Packages_TextChanged(object sender, EventArgs e)
+        {
+            if (RB_IC_Value.Checked)
+            {
+                var weight = Convert.ToSingle(TB_IC_Weight.Text.GetEmptyOrZero(false));
+                var rate = Convert.ToSingle(TB_IC_Rate.Text.GetEmptyOrZero(false));
+                TB_IC_Amount.Text = (weight * rate).ToString();
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Save();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            TB_IC_No.Text = DBAccess.GetMaxNext("ConsignmentNo", "Consignments", "max").ToString();
+            _uiManager.clearFields(P_IC.Controls, diContConsignmentsMand, true);
+            TB_IC_No.Focus();
+        }
+
+        private void TB_IC_Rate_TextChanged(object sender, EventArgs e)
+        {
+            var rate = Convert.ToSingle(TB_IC_Rate.Text.GetEmptyOrZero(false));
+            if (RB_IC_LCV.Checked)
+            {
+                var packages = Convert.ToInt32(TB_IC_Packages.Text.GetEmptyOrZero(false));
+                TB_IC_Amount.Text = (packages * rate).ToString();
+            }
+            else if (RB_IC_Value.Checked)
+            {
+                var weight = Convert.ToSingle(TB_IC_Weight.Text.GetEmptyOrZero(false));
+                TB_IC_Amount.Text = (weight * rate).ToString();
+            }
+            else
+                TB_IC_Amount.Text = rate.ToString();
+        }
+
+        private void FormNewConsignment_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            var dialogResult = MessageBox.Show("Are you sure you want to close. All your unsaved changes will be lost.", "Confirm closing", MessageBoxButtons.OKCancel);
+            if (dialogResult == DialogResult.Cancel)
+                e.Cancel = true;
+        }
     }
 }

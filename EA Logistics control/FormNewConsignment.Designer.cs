@@ -31,6 +31,9 @@
             this.components = new System.ComponentModel.Container();
             this.toolStripContainer1 = new System.Windows.Forms.ToolStripContainer();
             this.P_IC = new System.Windows.Forms.Panel();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.cbConsignee = new System.Windows.Forms.ComboBox();
             this.cbConsignor = new System.Windows.Forms.ComboBox();
             this.cbTo = new System.Windows.Forms.ComboBox();
@@ -85,11 +88,11 @@
             // toolStripContainer1.ContentPanel
             // 
             this.toolStripContainer1.ContentPanel.Controls.Add(this.P_IC);
-            this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(995, 422);
+            this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(995, 490);
             this.toolStripContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.toolStripContainer1.Location = new System.Drawing.Point(0, 0);
             this.toolStripContainer1.Name = "toolStripContainer1";
-            this.toolStripContainer1.Size = new System.Drawing.Size(995, 447);
+            this.toolStripContainer1.Size = new System.Drawing.Size(995, 515);
             this.toolStripContainer1.TabIndex = 0;
             this.toolStripContainer1.Text = "toolStripContainer1";
             // 
@@ -97,6 +100,9 @@
             // 
             this.P_IC.AutoScroll = true;
             this.P_IC.BackColor = System.Drawing.Color.Silver;
+            this.P_IC.Controls.Add(this.button3);
+            this.P_IC.Controls.Add(this.button2);
+            this.P_IC.Controls.Add(this.button1);
             this.P_IC.Controls.Add(this.cbConsignee);
             this.P_IC.Controls.Add(this.cbConsignor);
             this.P_IC.Controls.Add(this.cbTo);
@@ -130,8 +136,38 @@
             this.P_IC.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.P_IC.Location = new System.Drawing.Point(0, 0);
             this.P_IC.Name = "P_IC";
-            this.P_IC.Size = new System.Drawing.Size(995, 422);
+            this.P_IC.Size = new System.Drawing.Size(995, 490);
             this.P_IC.TabIndex = 33;
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(611, 415);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(86, 36);
+            this.button3.TabIndex = 227;
+            this.button3.Text = "Clear";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(490, 415);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(86, 36);
+            this.button2.TabIndex = 226;
+            this.button2.Text = "Cancel";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(363, 415);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(86, 36);
+            this.button1.TabIndex = 225;
+            this.button1.Text = "Save";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // cbConsignee
             // 
@@ -181,10 +217,11 @@
             // TB_IC_Packages
             // 
             this.TB_IC_Packages.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.TB_IC_Packages.Location = new System.Drawing.Point(171, 223);
+            this.TB_IC_Packages.Location = new System.Drawing.Point(171, 246);
             this.TB_IC_Packages.Name = "TB_IC_Packages";
             this.TB_IC_Packages.Size = new System.Drawing.Size(296, 23);
             this.TB_IC_Packages.TabIndex = 8;
+            this.TB_IC_Packages.TextChanged += new System.EventHandler(this.TB_IC_Packages_TextChanged);
             this.TB_IC_Packages.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TB_KeyPress);
             // 
             // TB_IC_No
@@ -201,7 +238,7 @@
             // 
             this.RB_IC_LCV.AutoSize = true;
             this.RB_IC_LCV.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.RB_IC_LCV.Location = new System.Drawing.Point(416, 306);
+            this.RB_IC_LCV.Location = new System.Drawing.Point(413, 219);
             this.RB_IC_LCV.Name = "RB_IC_LCV";
             this.RB_IC_LCV.Size = new System.Drawing.Size(51, 21);
             this.RB_IC_LCV.TabIndex = 13;
@@ -212,7 +249,7 @@
             // 
             this.RB_IC_FTL.AutoSize = true;
             this.RB_IC_FTL.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.RB_IC_FTL.Location = new System.Drawing.Point(296, 306);
+            this.RB_IC_FTL.Location = new System.Drawing.Point(293, 219);
             this.RB_IC_FTL.Name = "RB_IC_FTL";
             this.RB_IC_FTL.Size = new System.Drawing.Size(52, 21);
             this.RB_IC_FTL.TabIndex = 12;
@@ -223,7 +260,7 @@
             // 
             this.RB_IC_Value.AutoSize = true;
             this.RB_IC_Value.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.RB_IC_Value.Location = new System.Drawing.Point(171, 306);
+            this.RB_IC_Value.Location = new System.Drawing.Point(168, 219);
             this.RB_IC_Value.Name = "RB_IC_Value";
             this.RB_IC_Value.Size = new System.Drawing.Size(62, 21);
             this.RB_IC_Value.TabIndex = 11;
@@ -292,7 +329,7 @@
             // TB_IC_Weight
             // 
             this.TB_IC_Weight.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TB_IC_Weight.Location = new System.Drawing.Point(171, 274);
+            this.TB_IC_Weight.Location = new System.Drawing.Point(171, 297);
             this.TB_IC_Weight.Name = "TB_IC_Weight";
             this.TB_IC_Weight.Size = new System.Drawing.Size(296, 23);
             this.TB_IC_Weight.TabIndex = 10;
@@ -306,6 +343,7 @@
             this.TB_IC_Rate.Name = "TB_IC_Rate";
             this.TB_IC_Rate.Size = new System.Drawing.Size(296, 23);
             this.TB_IC_Rate.TabIndex = 14;
+            this.TB_IC_Rate.TextChanged += new System.EventHandler(this.TB_IC_Rate_TextChanged);
             this.TB_IC_Rate.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TB_KeyPress);
             // 
             // TB_IC_Vehicle
@@ -369,7 +407,7 @@
             // 
             this.L_IC_Weight.AutoSize = true;
             this.L_IC_Weight.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.L_IC_Weight.Location = new System.Drawing.Point(21, 274);
+            this.L_IC_Weight.Location = new System.Drawing.Point(21, 297);
             this.L_IC_Weight.Name = "L_IC_Weight";
             this.L_IC_Weight.Size = new System.Drawing.Size(148, 17);
             this.L_IC_Weight.TabIndex = 75;
@@ -379,7 +417,7 @@
             // 
             this.L_IC_Packages.AutoSize = true;
             this.L_IC_Packages.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.L_IC_Packages.Location = new System.Drawing.Point(21, 223);
+            this.L_IC_Packages.Location = new System.Drawing.Point(21, 246);
             this.L_IC_Packages.Name = "L_IC_Packages";
             this.L_IC_Packages.Size = new System.Drawing.Size(139, 17);
             this.L_IC_Packages.TabIndex = 71;
@@ -447,10 +485,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(995, 447);
+            this.ClientSize = new System.Drawing.Size(995, 515);
             this.Controls.Add(this.toolStripContainer1);
             this.Name = "FormNewConsignment";
             this.Text = "New Consignment";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormNewConsignment_FormClosing);
             this.Load += new System.EventHandler(this.FormNewConsignment_Load);
             this.toolStripContainer1.ContentPanel.ResumeLayout(false);
             this.toolStripContainer1.ResumeLayout(false);
@@ -508,6 +547,8 @@
         private System.Windows.Forms.ComboBox cbFrom;
         private System.Windows.Forms.ComboBox cbConsignee;
         private System.Windows.Forms.ComboBox cbConsignor;
-
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button1;
     }
 }

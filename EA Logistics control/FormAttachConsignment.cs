@@ -112,7 +112,7 @@ namespace EA_Logistics_Control
                 txtCharges = new TextBox[100];
                 btnCharges = new Button[100];
                 lblCharges = new Label[100];
-                dataSet = CCatCharges.getDataAll(
+                //dataSet = CCatCharges.getDataAll(
             }
             else
             {
@@ -335,9 +335,12 @@ namespace EA_Logistics_Control
 
         #endregion
 
+        private CRunTimeUI _uiManager;
+
         #region event handling
         public FormAttachConsignment()
         {
+            _uiManager = new CRunTimeUI();
             InitializeComponent();
         }
 
@@ -358,7 +361,7 @@ namespace EA_Logistics_Control
 
             this.AutoSize = true;
 
-            CRunTimeUI.makeFieldsReadOnly(this.Controls);
+            _uiManager.makeFieldsReadOnly(this.Controls);
             txtConsignmentNo.ReadOnly = false;
             cbConsignee.DropDownStyle = ComboBoxStyle.DropDownList;
             cbConsignee.DropDownStyle = ComboBoxStyle.DropDownList;
@@ -407,7 +410,7 @@ namespace EA_Logistics_Control
                         }
                     }
 
-                    CRunTimeUI.clearFields(this.Controls, diControlsBillsMandatory, true);
+                    _uiManager.clearFields(this.Controls, diControlsBillsMandatory, true);
 
                 }
 
@@ -520,8 +523,8 @@ namespace EA_Logistics_Control
                     return;
                 ConsignmentForBilling = CConsignments.getInstance(txtConsignmentNo.Text, false);
                 txtConsignmentAmount.Text = ConsignmentForBilling.Amount.ToString();
-                CRunTimeUI.clearFields(pnlExtraCharges.Controls, null, nested: true);
-                CRunTimeUI.clearFields(pnlMultiPoints.Controls, null, nested: true);
+                _uiManager.clearFields(pnlExtraCharges.Controls, null, nested: true);
+                _uiManager.clearFields(pnlMultiPoints.Controls, null, nested: true);
                 if (ConsignmentForBilling.strError != null && ConsignmentForBilling.strError != "")
                 {
                     MessageBox.Show("Consignments can not be loaded due to error : " + ConsignmentForBilling.strError);
@@ -534,7 +537,7 @@ namespace EA_Logistics_Control
                 MessageBox.Show(Ex.Message);
                 message = "Project: EA Logistics Control\nTarget:" + Ex.TargetSite.ToString() + "\nException:" + Ex.GetType().ToString() + "\nMessage:" + Ex.Message;
                 CLogger.setErrorLog(iErrId, message);
-                CRunTimeUI.clearFields(this.Controls, diControlsBillsMandatory, true);
+                _uiManager.clearFields(this.Controls, diControlsBillsMandatory, true);
             }
         }
 
@@ -542,7 +545,7 @@ namespace EA_Logistics_Control
         {
             TextBox c = (TextBox)sender;
             if (diControlsBillsNum.ContainsKey(c))
-                CRunTimeUI.restrictKeys(diControlsBillsNum, c, e);
+                _uiManager.restrictKeys(diControlsBillsNum, c, e);
         }
         #endregion
 

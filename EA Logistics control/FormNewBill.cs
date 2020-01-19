@@ -4,8 +4,6 @@ using System.IO;
 using System.Collections.Generic;
 using System.Data;
 using System.Drawing;
-//using Microsoft.Office.Interop.Word;
-using EA_Logistics_Control.Models;
 using ExtraFunctions;
 
 namespace EA_Logistics_Control
@@ -37,9 +35,12 @@ namespace EA_Logistics_Control
 
         #endregion
 
+        private CRunTimeUI _uiManager;
+
         #region event handling
         public FormNewBill()
         {
+            _uiManager = new CRunTimeUI();
             InitializeComponent();
         }
 
@@ -88,7 +89,7 @@ namespace EA_Logistics_Control
 
             //  Starts Sets properties for panel controls that adds CNs to a Bill
 
-            CRunTimeUI.setBackColor(toolStripContainer1.ContentPanel.Controls, Color.Transparent);
+            _uiManager.setBackColor(toolStripContainer1.ContentPanel.Controls, Color.Transparent);
 
             dgvConsignments.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
             dgvConsignments.AllowUserToAddRows = false;
@@ -148,7 +149,7 @@ namespace EA_Logistics_Control
 
         private void btn_Save_Click(object sender, EventArgs e)
         {
-            if (!CRunTimeUI.showErrorOnFields(diContBillsMand))
+            if (!_uiManager.showErrorOnFields(diContBillsMand))
             {
 
             }
@@ -159,7 +160,7 @@ namespace EA_Logistics_Control
         {
             txtBillNo.TextChanged -= TB_TextChanged;
             txtAmount.TextChanged -= TB_TextChanged;
-            CRunTimeUI.clearFields(toolStripContainer1.ContentPanel.Controls, diContBillsMand, true, true);
+            _uiManager.clearFields(toolStripContainer1.ContentPanel.Controls, diContBillsMand, true, true);
             txtBillNo.TextChanged += TB_TextChanged;
             txtAmount.TextChanged += TB_TextChanged;
             txtBillNo.Focus();
@@ -169,7 +170,7 @@ namespace EA_Logistics_Control
         {
             TextBox c = (TextBox)sender;
             if (diContBillsNum.ContainsKey(c))
-                CRunTimeUI.restrictKeys(diContBillsNum, c, e);
+                _uiManager.restrictKeys(diContBillsNum, c, e);
         }
         #endregion
 

@@ -10,6 +10,7 @@ namespace EA_Logistics_Control
     {
         #region private members
         private CUserInfo _userInfo = new CUserInfo();
+        private CRunTimeUI _uiManager;
         #endregion
 
         #region properties
@@ -28,8 +29,8 @@ namespace EA_Logistics_Control
             this.WindowState = FormWindowState.Maximized;
             statusStrip.ForeColor = Color.White;
             SetNotification("Ready", NotificationPriority.Ready);
-            CRunTimeUI.enableToolStripItems(false, menuStrip.Items);
-            CRunTimeUI.enableToolStripItems(false, toolStrip.Items);
+            _uiManager.enableToolStripItems(false, menuStrip.Items);
+            _uiManager.enableToolStripItems(false, toolStrip.Items);
             loginToolStripMenuItem.Enabled = true;
             loginToolStripMenuItem.Text = "Login";
             showLogin();
@@ -48,8 +49,8 @@ namespace EA_Logistics_Control
             if (UserInfo.IsActive)
             {
                 this.ActiveMdiChild.Close();
-                CRunTimeUI.enableToolStripItems(true, MainMenuStrip.Items);
-                CRunTimeUI.enableToolStripItems(true, toolStrip.Items);
+                _uiManager.enableToolStripItems(true, MainMenuStrip.Items);
+                _uiManager.enableToolStripItems(true, toolStrip.Items);
                 loginToolStripMenuItem.Text = "Logout";
             }
         }
@@ -84,6 +85,7 @@ namespace EA_Logistics_Control
         #region event handling
         public MdiDashboard()
         {
+            _uiManager = new CRunTimeUI();
             InitializeComponent();
         }
 

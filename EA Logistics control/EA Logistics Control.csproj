@@ -101,6 +101,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Extras\StringHelper.cs" />
     <Compile Include="FormAddUser.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -263,7 +264,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="pictures\ico_remove.ico" />
-    <Content Include="Logs\error_log.txt" />
     <Content Include="pictures\pic_refresh - Copy.png" />
     <None Include="Resources\Icon_Remove.bmp" />
     <None Include="Resources\ico_remove_32x32.ico" />

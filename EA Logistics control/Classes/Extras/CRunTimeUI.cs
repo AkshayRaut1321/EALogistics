@@ -21,7 +21,7 @@ namespace ExtraFunctions
         /// </summary>
         /// <param name="ContCol"></param>
         /// <param name="col"></param>
-        public static void setBackColor(Control.ControlCollection ContCol, Color col)
+        public void setBackColor(Control.ControlCollection ContCol, Color col)
         {
             foreach (Control cTemp2 in ContCol)
             {
@@ -35,7 +35,7 @@ namespace ExtraFunctions
         /// </summary>
         /// <param name="diTemp">Dictionary&lt;Control, ErrorProvider&gt;, a collection that takes mandatory controls of any type as keys and ErrorProviders as values.</param>
         /// <returns></returns>
-        public static bool showErrorOnFields(Dictionary<Control, ErrorProvider> diTemp)
+        public bool showErrorOnFields(Dictionary<Control, ErrorProvider> diTemp)
         {
             bool ret = false;
             try
@@ -79,7 +79,7 @@ namespace ExtraFunctions
         /// <param name="hasEP">bool value indicating whether any ErrorProvider(s) for controls exists.
         /// <para>Set it true to and pass a Dictionary object to clear error messages for compulsory controls.</para></param>
         /// <param name="nested">bool value that allows recursion to go through nested controls such as Panels</param>
-        public static void clearFields(System.Windows.Forms.Control.ControlCollection cc, Dictionary<Control, ErrorProvider> diTemp = null, bool hasEP = false, bool nested = false)
+        public void clearFields(Control.ControlCollection cc, Dictionary<Control, ErrorProvider> diTemp = null, bool hasEP = false, bool nested = false)
         {
             if (!hasEP)
                 diTemp = null;
@@ -106,7 +106,7 @@ namespace ExtraFunctions
         /// <summary>
         /// Prevents user from typing certain keys
         /// </summary>
-        public static void restrictKeys(Dictionary<Control, string> diTemp, Control cTemp, KeyPressEventArgs e)
+        public void restrictKeys(Dictionary<Control, string> diTemp, Control cTemp, KeyPressEventArgs e)
         {
             try
             {
@@ -148,7 +148,7 @@ namespace ExtraFunctions
         /// </summary>
         /// <param name="cc">Collection of controls that needs checking for empty fields.</param>
         /// <returns></returns>
-        public static bool getBoolOnEmptyFields(Control.ControlCollection cc, bool onEmpty = true, bool nested = false)
+        public bool getBoolOnEmptyFields(Control.ControlCollection cc, bool onEmpty = true, bool nested = false)
         {
             bool result = false;
             try
@@ -175,7 +175,7 @@ namespace ExtraFunctions
         /// Iterates through a control collection and makes them ReadOnly
         /// </summary>
         /// <param name="controlCollection">The collection of controls in which controls will be made ReadOnly</param>
-        public static void makeFieldsReadOnly(System.Windows.Forms.Control.ControlCollection controlCollection)
+        public void makeFieldsReadOnly(System.Windows.Forms.Control.ControlCollection controlCollection)
         {
             try
             {
@@ -201,7 +201,7 @@ namespace ExtraFunctions
         /// <param name="controlCollection">Collection of Controls in which specific control will be searched</param>
         /// <param name="nested">a flag that indicates whether to look in to the nested Containers</param>
         /// <returns></returns>
-        public static Control findControlByName(string ControlName, Control.ControlCollection controlCollection, bool nested = false)
+        public Control findControlByName(string ControlName, Control.ControlCollection controlCollection, bool nested = false)
         {
             try
             {
@@ -220,7 +220,7 @@ namespace ExtraFunctions
             return null;
         }
 
-        public static void enableToolStripItems(bool state, ToolStripItemCollection toolStripItemCollection)
+        public void enableToolStripItems(bool state, ToolStripItemCollection toolStripItemCollection)
         {
             foreach (ToolStripItem toolStripItem in toolStripItemCollection)
             {
